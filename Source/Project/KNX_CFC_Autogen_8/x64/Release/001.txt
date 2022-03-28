@@ -1,0 +1,28 @@
+STLV59_563	STLV59_A_563		
+001	22200000221102	22000000220002	Ostelager
+002	1120011	112	Sosial sone
+003	112001	11	Jugendstue (Egentlig romtype 110001, men får temp fra rom 004)
+004	112101	1121	Gang jugend
+005	112001	112	Kjøkken
+006	112002	111	Trenings rom
+007	112001	112	Garderobe 2
+008	112001	112	Garderobe 1
+009	112001	112	WC
+010	112001	112	WC
+011	112001	112	Garderobe
+012	112001	112	Entre
+013	112001	112	Bøttekott
+014	22	22	Teknisk rom
+015	11	11	Krypkjeller
+016	11	11	Teknisk rom tårn
+017	112001	112	Arkiv
+101	112001	112	Vindfang
+102	112001	112	Garderobe
+103	4462051	444	Storsal
+109	112001	112	Forrom WC
+201	003	003	Landskap
+212	1121011	1121	Møterom 4
+213	1120011	112	Stillerom
+T1_U1	112001	112	Trapp 1 U1
+T2_1	112001	112	Trapp 2 1. etg.
+T2_2	112001	112	Trapp 2 2. etg.
